@@ -1,5 +1,5 @@
 # sicret
-![sicret](https://github.com/rfzee/sicret/assets/13101/67feb606-1804-4bde-bc38-7e37a81d492b)
+<img width="2048" height="2048" alt="Gemini_Generated_Image_vxgshxvxgshxvxgs" src="https://github.com/user-attachments/assets/e59c4128-b4f9-4da9-a26b-154031320b73" />
 
 
 ## Overview
